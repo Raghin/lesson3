@@ -1,4 +1,8 @@
 ﻿img {
-    max-height: 150px;
-    max-width: 150px;
+    max-height: 50%;
+    max-width: 50%;
+}
+
+header h3{
+    text-align: center;
 }
